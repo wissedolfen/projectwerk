@@ -1,0 +1,88 @@
+.uitleg1{
+	font-size: 150px;
+	line-height: 70px;
+	color: #000;
+	margin-top:0.5em;
+	margin-bottom:0em;
+	font-family: Lucida Handwriting;
+	}
+.uitleg2{
+	font-size: 50px;
+	line-height: 70px;
+	color: black;
+	margin-top:0.3em;
+	font-family:Felix Titling;
+	}
+.titel {
+	font-size: 100px;
+	line-height: 70px;
+	color: #000;
+	margin-top:0.5em;
+	margin-bottom:0em;
+	font-family: Lucida Handwriting;
+	}
+	
+.ondertitel{
+	font-size: 25px;
+	line-height: 70px;
+	color: black;
+	margin-top:0.3em;
+	margin-bottom:0.3em;
+	font-family:Felix Titling;
+	font-weight:900;
+	}
+
+.tekst{
+	font-size: 20px;
+	line-height: 20px;
+	margin-top:0.1em;
+	margin-bottom:0em;
+	color: black;
+	font-family:Adobe Fan Heiti Std B;
+	
+	}
+	
+ul#navlist
+{
+width: 158px;
+\width: 160px;
+w\idth: 158px;
+padding: 0px;
+border: 0px solid #808080;
+border-top: 0px #5D9429;
+margin: 0px;
+font: bold 20px Hobo Std;
+background: #808080;
+}
+
+ul#navlist li
+{
+list-style: none;
+margin: 0px;
+border: 0px;
+border-top: 1px solid #5D9429;
+}
+
+ul#navlist li a
+{
+display: block;
+width: 122px;
+\width: 158px;
+w\idth: 122px;
+padding: 16px 8px 4px 8px;
+border: 0px;
+border-left: 20px solid #9BE653;
+background: #5D9429;
+text-decoration: none;
+text-align: right;
+}
+
+ul#navlist li a:link { color: #9BE653; }
+div#navcontainer li a:visited { color: #9BE653; }
+
+ul#navlist li a:hover
+{
+border-color: #ff9000;
+color: #E2EADB;
+background: #46642B;
+}
